@@ -89,9 +89,17 @@ body {
     position: relative;
     display: inline-block;
     border: black 2px solid;
-    background-color: antiquewhite;
-    padding: 30rem;
-
+    background-color: rgb(206, 211, 215);
+    width: 104rem;
+    height: 60rem;
     bottom: 124rem;
-    left: 30rem;
+    left: 26rem;
+}
+
+.imagen-info{
+    border-right: 2px solid black;
+}
+
+.formilario{
+    border-left: 2px solid black;
 }
